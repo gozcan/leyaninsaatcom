@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "badge": "25 Years of Experience",
+    "title": "Revitalizing Your",
+    "titleHighlight": "Existing",
+    "titleEnd": "Spaces",
+    "description": "Your expert partner for renovation, restoration, and remodeling projects. We transform your old structures into modern, safe, and aesthetic living spaces.",
+    "cta": "Free Consultation",
+    "ctaSecondary": "View Our Projects",
+    "stats": {
+      "projects": "Completed Projects",
+      "experience": "Years of Experience",
+      "satisfaction": "Customer Satisfaction"
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Restoration and Renovation Expert",
+    "description": "Since 1999, we have been providing renovation, restoration, and remodeling services by preserving historical texture and considering modern needs. We add value to your structures.",
+    "features": {
+      "quality": {
+        "title": "Quality Focused",
+        "description": "Materials and workmanship at the highest quality standards"
+      },
+      "onTime": {
+        "title": "On-Time Delivery",
+        "description": "We deliver your projects on the promised date"
+      },
+      "expert": {
+        "title": "Expert Team",
+        "description": "Expert staff in restoration and renovation"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Uninterrupted communication and support during the project"
+      }
+    }
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Adding Value to Your Structures",
+    "description": "We renew your structures with our expertise in renovation, restoration, and strengthening.",
+    "items": {
+      "renovation": {
+        "title": "Complete Renovation",
+        "description": "Turnkey renovation services for your home, office, and workplace. Electrical, plumbing, painting, and flooring renewal."
+      },
+      "restoration": {
+        "title": "Historical Restoration",
+        "description": "Repairing and strengthening historical structures in accordance with their original form. Carrying cultural heritage to the future."
+      },
+      "remodeling": {
+        "title": "Remodeling & Renewal",
+        "description": "Adapting old structures to modern architecture. Functional and aesthetic transformations."
+      },
+      "interior": {
+        "title": "Interior Design",
+        "description": "Interior design and application of your living spaces. Aesthetic solutions tailored for you."
+      },
+      "strengthening": {
+        "title": "Seismic Retrofitting",
+        "description": "Increasing the earthquake performance of existing buildings. Carbon fiber and steel reinforcement applications."
+      },
+      "facade": {
+        "title": "Facade Renewal",
+        "description": "We modernize the exterior appearance of your buildings and provide heat and sound insulation."
+      }
+    }
+  },
+  "projects": {
+    "badge": "Our Projects",
+    "title": "Completed Transformations",
+    "description": "Examples of renovation, restoration, and remodeling projects we have successfully completed.",
+    "viewAll": "View All Projects",
+    "categories": {
+      "all": "All",
+      "renovation": "Renovation",
+      "restoration": "Restoration",
+      "remodeling": "Remodeling"
+    }
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Get in Touch With Us",
+    "description": "Contact us for a free consultation for your renovation and restoration projects.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Your Phone",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully!",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "hoursValue": "Monday - Saturday: 09:00 - 18:00"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for renovation, restoration, and remodeling projects with 25 years of experience.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "seeAll": "See All",
+    "loading": "Loading..."
+  }
+}

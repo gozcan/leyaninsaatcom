@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "getQuote": "Teklif Al"
+  },
+  "hero": {
+    "badge": "25 Yıllık Tecrübe",
+    "title": "Mevcut Yapılarınızı",
+    "titleHighlight": "Yeniden",
+    "titleEnd": "Hayata Döndürüyoruz",
+    "description": "Tadilat, restorasyon ve renovasyon projelerinizde uzman çözüm ortağınız. Eski yapılarınızı modern, güvenli ve estetik yaşam alanlarına dönüştürüyoruz.",
+    "cta": "Ücretsiz Keşif",
+    "ctaSecondary": "Projelerimizi İncele",
+    "stats": {
+      "projects": "Tamamlanan Proje",
+      "experience": "Yıllık Deneyim",
+      "satisfaction": "Müşteri Memnuniyeti"
+    }
+  },
+  "about": {
+    "badge": "Hakkımızda",
+    "title": "Restorasyon ve Renovasyon Uzmanı",
+    "description": "1999 yılından bu yana, tarihi dokuyu koruyarak ve modern ihtiyaçları gözeterek tadilat, restorasyon ve renovasyon alanında hizmet veriyoruz. Yapılarınıza değer katıyoruz.",
+    "features": {
+      "quality": {
+        "title": "Kalite Odaklı",
+        "description": "En yüksek kalite standartlarında malzeme ve işçilik"
+      },
+      "onTime": {
+        "title": "Zamanında Teslimat",
+        "description": "Projelerinizi söz verdiğimiz tarihte teslim ediyoruz"
+      },
+      "expert": {
+        "title": "Uzman Ekip",
+        "description": "Restorasyon ve tadilat konusunda uzman kadro"
+      },
+      "support": {
+        "title": "7/24 Destek",
+        "description": "Proje sürecinde kesintisiz iletişim ve destek"
+      }
+    }
+  },
+  "services": {
+    "badge": "Hizmetlerimiz",
+    "title": "Yapılarınıza Değer Katıyoruz",
+    "description": "Tadilat, restorasyon ve güçlendirme alanındaki uzmanlığımızla yapılarınızı yeniliyoruz.",
+    "items": {
+      "renovation": {
+        "title": "Komple Tadilat",
+        "description": "Ev, ofis ve iş yerleriniz için anahtar teslim tadilat hizmetleri. Elektrik, su tesisatı, boya ve zemin yenileme."
+      },
+      "restoration": {
+        "title": "Tarihi Eser Restorasyonu",
+        "description": "Tarihi yapıların aslına uygun olarak onarılması ve güçlendirilmesi. Kültürel mirası geleceğe taşıyoruz."
+      },
+      "remodeling": {
+        "title": "Renovasyon & Yenileme",
+        "description": "Eskiyen yapıların modern mimariye uygun hale getirilmesi. Fonksiyonel ve estetik dönüşümler."
+      },
+      "interior": {
+        "title": "İç Mimari & Dekorasyon",
+        "description": "Yaşam alanlarınızın iç mekan tasarımı ve uygulaması. Size özel estetik çözümler."
+      },
+      "strengthening": {
+        "title": "Deprem Güçlendirme",
+        "description": "Mevcut binaların deprem performansının artırılması. Karbon fiber ve çelik güçlendirme uygulamaları."
+      },
+      "facade": {
+        "title": "Dış Cephe Yenileme",
+        "description": "Binalarınızın dış görünümünü modernleştiriyor, ısı ve ses yalıtımı sağlıyoruz."
+      }
+    }
+  },
+  "projects": {
+    "badge": "Projelerimiz",
+    "title": "Tamamlanan Dönüşümler",
+    "description": "Başarıyla tamamladığımız tadilat, restorasyon ve renovasyon projelerimizden örnekler.",
+    "viewAll": "Tüm Projeleri Gör",
+    "categories": {
+      "all": "Tümü",
+      "renovation": "Tadilat",
+      "restoration": "Restorasyon",
+      "remodeling": "Renovasyon"
+    }
+  },
+  "contact": {
+    "badge": "İletişim",
+    "title": "Bizimle İletişime Geçin",
+    "description": "Tadilat ve restorasyon projeleriniz için ücretsiz keşif talebinde bulunun.",
+    "form": {
+      "name": "Adınız Soyadınız",
+      "email": "E-posta Adresiniz",
+      "phone": "Telefon Numaranız",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Mesajınız başarıyla gönderildi!",
+      "error": "Bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "address": "Adres",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "hours": "Çalışma Saatleri",
+      "hoursValue": "Pazartesi - Cuma: 09:00 - 18:00"
+    }
+  },
+  "footer": {
+    "description": "25 yıllık tecrübemizle tadilat, restorasyon ve renovasyon projelerinizde güvenilir çözüm ortağınız.",
+    "quickLinks": "Hızlı Linkler",
+    "services": "Hizmetlerimiz",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları"
+  },
+  "common": {
+    "learnMore": "Daha Fazla",
+    "readMore": "Devamını Oku",
+    "seeAll": "Tümünü Gör",
+    "loading": "Yükleniyor..."
+  }
+}
